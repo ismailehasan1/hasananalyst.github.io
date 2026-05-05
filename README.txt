@@ -1,31 +1,128 @@
-Photon by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# 🌐 Ismaile Hasan – Portfolio Website
 
+Welcome to my personal portfolio website repository.  
+This project showcases my skills, experience, and projects in **Data Science, Machine Learning, MLOps, and Data Engineering**.
 
-A simple (gradient-heavy) single pager that revisits a style I messed with on two
-previous designs (Tessellate and Telephasic). Fully responsive, built on Sass,
-and, as usual, loaded with an assortment of pre-styled elements. Have fun! :)
+---
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## 👨‍💻 About Me
 
-(* = Not included)
+I am **Ismaile Hasan**, a Data Enthusiast and MLOps & AI Practitioner based in Germany.  
+I specialize in transforming complex datasets into **actionable insights and production-ready ML solutions**.
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+Currently pursuing a **Master’s degree in International Economics with a focus on Data Science** at the University of Paderborn.
 
-AJ
-aj@lkn.io | @ajlkn
+I am passionate about:
+- Machine Learning & Deep Learning
+- Data Engineering & Pipelines
+- MLOps & Cloud Deployment
+- Business Intelligence & Analytics
 
+---
 
-Credits:
+## 🚀 Live Portfolio
 
-	Demo Images:
-		Unsplash (unsplash.com)
+👉 *[Add your GitHub Pages / domain link here]*  
+Example: `https://yourusername.github.io/portfolio`
 
-	Icons:
-		Font Awesome (fontawesome.io)
+---
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## 🧰 Tech Stack
+
+### Programming & Data
+- Python (pandas, NumPy, scikit-learn)
+- R
+- SQL
+
+### Data Visualization
+- Power BI
+- Tableau
+
+### Machine Learning & AI
+- TensorFlow
+- PyTorch
+- NLP
+- Time Series Forecasting
+
+### Data Engineering & Cloud
+- Microsoft Fabric (OneLake, Data Factory, Lakehouse)
+- Databricks
+- AWS (EC2, S3, RDS, IAM)
+- Azure (Synapse, Data Lake)
+- Google Cloud Platform
+
+### MLOps Tools
+- Docker
+- CI/CD (GitHub Actions)
+- DVC
+
+---
+
+## 📊 Featured Sections
+
+### 📌 Data Analytics & BI
+- Interactive dashboards (Power BI & Tableau)
+- KPI tracking & business insights
+- EDA and data storytelling
+
+### 🤖 Machine Learning & AI Projects
+- Classification & predictive modeling
+- NLP sentiment analysis systems
+- Customer churn prediction models
+
+### ⚙️ MLOps & Deployment
+- Dockerized ML APIs
+- CI/CD pipelines
+- Cloud deployment (AWS)
+
+---
+
+## 📁 Featured Projects
+
+### 📊 Power BI & Analytics
+- Property Sales Management Dashboard  
+- Restaurant Performance Analysis  
+- Video Game Sales Trends  
+
+### 📈 Tableau Projects
+- Netflix Content Analysis  
+- Real Estate Pricing Analysis  
+
+### 🤖 Machine Learning Projects
+- Social Media Sentiment Analysis (Flask + AWS + Docker)  
+- Customer Churn Prediction  
+- Credit Card Fraud Detection  
+
+### 📉 Financial & Time Series
+- Mercedes-Benz Financial Analysis (GARCH Model in R)
+
+---
+
+## 📬 Contact
+
+Feel free to connect with me:
+
+- 📧 Email: **ismailehasanlio05@gmail.com**
+- 📍 Location: Paderborn, Germany
+- 💼 Status: Open to Opportunities
+
+---
+
+## 📌 Goal of This Portfolio
+
+This portfolio demonstrates my ability to:
+- Build end-to-end ML systems
+- Design scalable data pipelines
+- Develop BI dashboards
+- Deploy cloud-based AI applications
+
+---
+
+## 📄 License
+
+This project is open for learning and personal portfolio reference.  
+© 2026 Ismaile Hasan. All rights reserved.
+
+---
+
+⭐ If you like this project, feel free to star the repository!
